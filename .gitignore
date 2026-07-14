@@ -1,0 +1,16 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.*.backup
+*.tfvars
+crash.log
+crash.*.log
+*.pem
+*.key
+kubeconfig
+*.kubeconfig
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
