@@ -1,5 +1,5 @@
 # terraform-project-level1
-Architecture.png
+![Architecture](architecture.png)
 A **Terraform** project that provisions a **Kubernetes cluster (Master + Worker)** on **AWS** using **kubeadm**, with automated cluster initialization, centralized logging, and minimal manual intervention.
 
 ## Overview
